@@ -1,6 +1,6 @@
 * {
     color: white;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 html {
     background-color: black;
@@ -20,6 +20,10 @@ main{
     border-radius: 10px;
     padding: 40px 25px 40px 25px;
 }
+#parrafo {
+    color: #9a988b;
+}
+
 img {
     width: 15px;
     border-radius: 50%;
